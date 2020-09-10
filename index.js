@@ -33,7 +33,7 @@ function moveDodgerRight() {
     dodger.style.left = `${left + 1}px`;
   }
   else {
-    
+    console.log()
   }
 }
 
