@@ -32,6 +32,9 @@ function moveDodgerRight() {
   if ( left < 400) {
     dodger.style.left = `${left + 1}px`;
   }
+  else {
+    
+  }
 }
 
 
